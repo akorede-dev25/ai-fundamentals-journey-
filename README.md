@@ -8,6 +8,7 @@ Documenting my journey learning AI fundamentals in public.
 
 ## Progress
 - [Day 1](day-01.md): What AI is, and the 4 forms of AI
+- [Day 2](day-02.md): Eradication of processing data, what is rule based system 
 
 ## Follow along
 - X: @daino__
